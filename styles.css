@@ -1,0 +1,22 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cornflowerblue;
+}
+
+h1, h3{
+    text-align: center;
+    color: beige;
+    letter-spacing: 3px;
+}
+
+table{
+    margin: 0 auto;
+    /* border: 2px solid blue; */
+    width: 50%;
+    background-color: beige;
+}
+
+th, td{
+    border: 2px solid cornflowerblue;
+    padding: 5px 10px;
+}
